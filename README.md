@@ -2,7 +2,9 @@
 https://github.com/mamadou1991/Social-Network-API
 
 # Description
-As the indecates, this app is 
+
+This app is a social network database made using mongoose. It helps create, update, delete users, friends, thoughts and reactions.
+ 
 
 # Table of Contents 
   * [Installation](#installation)
@@ -22,9 +24,9 @@ npm install
 # Usage Information
 
 Use insomnia to create your users, thoughts, and reactions.
+Install Node.JS. 
+watch this video for more info:
 
-Install Node.JS
-This app is not deployed. 
 # Contributor
 N/A
 
