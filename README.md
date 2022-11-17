@@ -26,6 +26,7 @@ npm install
 Use insomnia to create your users, thoughts, and reactions.
 Install Node.JS. 
 watch this video for more info:
+https://drive.google.com/file/d/1ZLwZXOd1tNcXByHo7iwBVRE0z9jZGxi_/view
 
 # Contributor
 N/A
